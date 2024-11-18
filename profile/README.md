@@ -1,4 +1,4 @@
-# MBKM Mandiri Bina Desa 2024 - Kecamatan Sungai Raya Kepulauan
+# MBKM Mandiri Bina Desa 2024 - Kecamatan Pemangkat, Sambas, Kalimantan Barat
 
 ---
 
@@ -24,22 +24,17 @@ This repository features various projects initiated under the MBKM Mandiri Bina 
 
 ### Active Projects:
 
-1. **[Web Administrasi Kecamatan](link-to-project1)**
+1. **[Web Administrasi Surat Desa](link-to-project1)**
    - **Description**: A web-based administrative system to streamline local government processes.
    - **Technologies Used**: PHP, Laravel.
    - **Outcomes**: Increased efficiency in administrative tasks and improved public service delivery.
 
-2. **[Web Administrasi Desa](link-to-project2)**
-   - **Description**: A dedicated platform for village administration to enhance transparency and accessibility.
-   - **Technologies Used**: PHP, Laravel.
-   - **Outcomes**: Empowered village leaders with tools for better governance and community engagement.
-
-3. **[Web Profile Desa](link-to-project3)**
+2. **[Web Profile Kecamatan dan Desa](link-to-project3)**
    - **Description**: An informative website showcasing village profiles, culture, and resources.
    - **Technologies Used**: HTML, CSS, JavaScript, PHP, Laravel, RASA.
    - **Outcomes**: Enhanced community visibility and promotion of local tourism.
 
-4. **[Sistem Manajemen Perpustakaan](link-to-project4)**
+3. **[Sistem Manajemen Perpustakaan](link-to-project4)**
    - **Description**: A library management system to facilitate efficient book lending and tracking.
    - **Technologies Used**: PHP, Laravel.
    - **Outcomes**: Streamlined library operations and improved user access to resources.
