@@ -1,4 +1,4 @@
-# MBKM Mandiri Bina Desa 2024 - Kecamatan Pemangkat, Sambas, Kalimantan Barat
+# MBKM PMKM Tematik Bina Desa 2024 - Kecamatan Pemangkat
 
 ---
 
