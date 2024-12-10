@@ -4,7 +4,7 @@
 
 ## 📚 Overview
 
-**MBKM Mandiri Bina Desa 2024** is a transformative community development initiative aimed at integrating technology with local resources to enhance the quality of life in Kecamatan Sungai Raya Kepulauan. As part of the **Merdeka Belajar-Kampus Merdeka (MBKM)** program, this project empowers students to engage in real-world applications and embrace social responsibility.
+**MBKM PMKM Tematik Bina Desa Informatika 2024** is a transformative community development initiative aimed at integrating technology with local resources to enhance the quality of life in Kecamatan Pemangkat. As part of the **Merdeka Belajar-Kampus Merdeka (MBKM)** program, this project empowers students to engage in real-world applications and embrace social responsibility.
 
 ### 🚀 Mission
 
@@ -24,17 +24,12 @@ This repository features various projects initiated under the MBKM Mandiri Bina 
 
 ### Active Projects:
 
-1. **[Web Administrasi Surat Desa](link-to-project1)**
-   - **Description**: A web-based administrative system to streamline local government processes.
-   - **Technologies Used**: PHP, Laravel.
-   - **Outcomes**: Increased efficiency in administrative tasks and improved public service delivery.
-
-2. **[Web Profile Kecamatan dan Desa](link-to-project3)**
+1. **[Web Profile Kecamatan dan Desa](link-to-project3)**
    - **Description**: An informative website showcasing village profiles, culture, and resources.
    - **Technologies Used**: HTML, CSS, JavaScript, PHP, Laravel, RASA.
    - **Outcomes**: Enhanced community visibility and promotion of local tourism.
 
-3. **[Sistem Manajemen Perpustakaan](link-to-project4)**
+2. **[Sistem Manajemen Perpustakaan](link-to-project4)**
    - **Description**: A library management system to facilitate efficient book lending and tracking.
    - **Technologies Used**: PHP, Laravel.
    - **Outcomes**: Streamlined library operations and improved user access to resources.
